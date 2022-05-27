@@ -1,10 +1,15 @@
 {
   "ad_data": [
 {
- 
-      "admob_appid":"",
-      "admob_banner":"0",
-      "admob_interstitial":"0"
+     
+      "admob_banner":"",
+      "admob_interstitial":"",
+      "admob_native":"",
+      "admob_openad":"",
+      
+      "face_banner":"",
+      "face_intertitial":"",
+      "face_native":""
 }
 ]
 }
